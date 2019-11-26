@@ -1,0 +1,11 @@
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\obj\Debug\netstandard2.0\Exam.Business.csprojAssemblyReference.cache
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\obj\Debug\netstandard2.0\Exam.Business.AssemblyInfoInputs.cache
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\obj\Debug\netstandard2.0\Exam.Business.AssemblyInfo.cs
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\bin\Debug\netstandard2.0\Exam.Business.deps.json
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\bin\Debug\netstandard2.0\Exam.Business.dll
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\bin\Debug\netstandard2.0\Exam.Business.pdb
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\bin\Debug\netstandard2.0\Exam.Contract.dll
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\bin\Debug\netstandard2.0\Exam.Contract.pdb
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\obj\Debug\netstandard2.0\Exam.Business.csproj.CopyComplete
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\obj\Debug\netstandard2.0\Exam.Business.dll
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Business\obj\Debug\netstandard2.0\Exam.Business.pdb

@@ -1,0 +1,13 @@
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\bin\Debug\netstandard2.0\Exam.Data.deps.json
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\bin\Debug\netstandard2.0\Exam.Data.dll
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\bin\Debug\netstandard2.0\Exam.Data.pdb
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\bin\Debug\netstandard2.0\Exam.Contract.dll
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\bin\Debug\netstandard2.0\Exam.DataAccess.dll
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\bin\Debug\netstandard2.0\Exam.Contract.pdb
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\bin\Debug\netstandard2.0\Exam.DataAccess.pdb
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\obj\Debug\netstandard2.0\Exam.Data.csprojAssemblyReference.cache
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\obj\Debug\netstandard2.0\Exam.Data.AssemblyInfoInputs.cache
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\obj\Debug\netstandard2.0\Exam.Data.AssemblyInfo.cs
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\obj\Debug\netstandard2.0\Exam.Data.csproj.CopyComplete
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\obj\Debug\netstandard2.0\Exam.Data.dll
+D:\student_NFB18Backup_Muraliii\C#\ExamBack_end\Exam.Data\obj\Debug\netstandard2.0\Exam.Data.pdb
