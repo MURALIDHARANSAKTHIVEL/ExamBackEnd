@@ -18,14 +18,7 @@ namespace Exam.Gateway.Controllers
             _ExamOrchetration = ExamOrchestration;
         }
 
-
-
-        // [HttpGet]
-        // [Route("UserDetails")]
-        // public IActionResult InsertUser()
-        // {
-        //     return Ok("created");
-        // }
+        
 
         [HttpPost]
         [Route("users")]
