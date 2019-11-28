@@ -25,6 +25,11 @@ _ExamRepository=examRepository;
 
             return _ExamRepository.GetPermission();
         }
+
+        public string CreateUser(OwnerDetails newuser)
+        {
+            return _ExamRepository.CreateUser(newuser);
+        }
     }
 
 }

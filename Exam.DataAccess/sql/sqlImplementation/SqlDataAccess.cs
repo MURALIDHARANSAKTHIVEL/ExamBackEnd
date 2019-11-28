@@ -81,6 +81,35 @@ namespace Exam.DataAccess.sql.sqlImplementation
             }
         }
 
+
+ public int ExecuteNonQuery(int connectionId, string commandText, List<DbParameter> parameters, CommandType commandType = CommandType.Text)
+        {
+            int returnValue = -1;
+            try
+            {
+                using (SqlConnection connection = this.GetConnection(connectionId))
+                {
+                    DbCommand cmd = this.GetCommand(connection, commandText, commandType);
+                    UpdateDbNullValues(parameters);
+                    if (parameters != null && parameters.Count > 0)
+                    {
+                        cmd.Parameters.AddRange(parameters.ToArray());
+                    
+                    }
+
+                    returnValue = cmd.ExecuteNonQuery();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+            return returnValue;
+        }
+
+
+
     }
 
 }

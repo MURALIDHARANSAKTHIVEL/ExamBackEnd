@@ -8,7 +8,7 @@ namespace Exam.Gateway.Controllers
 
 {
     [ApiController]
-    [Route("api/exam")]
+    [Route("api")]
     public class ExamController : ControllerBase
     {
 
@@ -32,18 +32,19 @@ namespace Exam.Gateway.Controllers
         [Route("permissons")]
         public IActionResult GetPermisson()
         {
-            Dictionary<Int64, string> d = new Dictionary<Int64, string>();
-            List<Permission> c = _ExamOrchetration.GetPermission();
-
-            foreach (Permission a in c)
-            {
-
-                d.Add(a.permissonkey, a.accessname);
-            }
-            return Ok(d);
+           
+            List<Permission> permissionList = _ExamOrchetration.GetPermission();
+            return Ok(permissionList);
 
         }
 
+        [HttpPost]
+        [Route("new-users")]
+        public IActionResult CreateUser([FromBody] OwnerDetails newuser)
+        {
+
+          return Ok(_ExamOrchetration.CreateUser(newuser));  
+        }
 
 
 

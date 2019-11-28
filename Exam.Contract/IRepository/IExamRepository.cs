@@ -8,6 +8,7 @@ public interface IExamRepository
 {
       OwnerDetails  GetUser(Logindetails logindetails);
       List<Permission> GetPermission();
+        string CreateUser(OwnerDetails newuser);
 }
 
 

@@ -9,5 +9,6 @@ namespace Exam.Contract.Data
     {
         DbDataReader GetUser(Logindetails logindetails);
         DbDataReader GetPermission();
+        int CreateUser(OwnerDetails newuser);
     }
 }

@@ -21,6 +21,13 @@ namespace Exam.Business.Repository
             _ExamAcces = examAccess;
         }
 
+        public string CreateUser(OwnerDetails newuser)
+        {
+          int dataReader= _ExamAcces.CreateUser(newuser);
+
+          return "vxv";  
+        }
+
         public List<Permission> GetPermission()
         {
             List<Permission> permissions=new List<Permission>();
