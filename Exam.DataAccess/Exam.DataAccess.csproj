@@ -7,6 +7,6 @@
 <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.0-preview3.19553.2" />
 <ProjectReference Include= "..\Exam.Contract\Exam.Contract.csproj"/>
 
-<PackageReference Include="System.Data.SqlClient" Version="4.8.0-preview3.19551.4" />
+<PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
 </ItemGroup>
 </Project>
